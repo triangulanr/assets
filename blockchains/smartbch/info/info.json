@@ -3,13 +3,8 @@
     "website": "https://bitcoincash.org/",
     "source_code": "https://github.com/bitcoincashorg/",
     "white_paper": "https://www.bitcoincash.org/bitcoin.pdf",
-    "description": "Bitcoin ABC is an electronic cash platform that allows peer-to-peer online cash payments. It is a fork (a copy in a way) of Bitcoin (BTC).",
+    "description": "Bitcoin Cash is Peer-to-Peer Electronic Cash.",
     "socials": [
-        {
-            "name": "Twitter",
-            "url": "https://twitter.com/BITCOlNCASH",
-            "handle": "BITCOlNCASH"
-        },
         {
             "name": "Reddit",
             "url": "https://reddit.com/r/Bitcoincash",
@@ -17,7 +12,7 @@
         }
     ],
     "explorer": "https://blockchair.com/bitcoin-cash",
-    "research": "https://research.binance.com/en/projects/bitcoin-cash",
+    "research": "https://bitcoincashresearch.org",
     "symbol": "BCH",
     "type": "COIN",
     "decimals": 8,
